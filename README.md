@@ -101,3 +101,7 @@ jupyter notebook dog_app.ipynb
 __NOTE:__ While some code has already been implemented to get you started, you will need to implement additional functionality to successfully answer all of the questions included in the notebook. __Unless requested, do not modify code that has already been included.__
 
 ### That was my third project in my machine learning engineer nanodegree with udacity and it's meant to classify images whether it's a human or a dog and what's more important that it identify the breed which the dog belongs to.
+
+1) Detecting the dog breed between over one hundred dog breeds.
+2) I was the machine learning engineer that developed the deep learning model using keras, i worked alone in this project.
+3) The architecture i built achieved over 80% accuracy, the model was very robust and i optimized it after then even better.
